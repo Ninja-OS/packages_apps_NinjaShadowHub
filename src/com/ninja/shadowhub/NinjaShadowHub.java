@@ -35,7 +35,7 @@ public class NinjaShadowHub extends SettingsPreferenceFragment {
     public void onCreate(Bundle icicle) {
         super.onCreate(icicle);
 
-        addPreferencesFromResource(R.xml.ninja_shadowhub);
+        addPreferencesFromResource(R.xml.ninja_shadowhub_settings);
     }
 
     @Override
